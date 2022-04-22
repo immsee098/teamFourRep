@@ -1,4 +1,4 @@
-# DDD설게 4팀 취합
+# DDD설계 4팀 취합
 
 ## 1. 도메인 모델 그리기
 ![도메인](https://user-images.githubusercontent.com/53042885/164647974-3815559b-298f-44f7-b7ba-d67c26d89320.jpg)
