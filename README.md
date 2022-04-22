@@ -53,4 +53,9 @@
 : https://aboutyhs1.notion.site/327bb472f2ca40978e30caf62f132be8
 
 ## 4. 각 Domain App의 Service Interface 정의하기
-: https://github.com/brightchul/BithumbCodeStates/tree/main/week2/homework3
+
+Lecture : https://github.com/immsee098/teamFourRep/tree/main/project/OnlineClass-Lecture
+
+Member : https://github.com/immsee098/teamFourRep/tree/main/project/OnlineClass-Member
+
+NoticeBoard : https://github.com/immsee098/teamFourRep/tree/main/project/OnlineClass-NoticeBoard
